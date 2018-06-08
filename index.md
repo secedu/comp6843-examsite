@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Hello friends. After the past semester it has been a pleasure teaching you all. I hope you've enjoyed the wargames and materials as much as I have had building them. I've definitely enjoyed running all the tutorials and writing these challenges and hopefully you enjoy breaking webapps as much as I do after a semester of my sadistic tendencies. You have all been a wonderful cohort to teach and its been a very enjoyable semester. 
 
-You can use the [editor on GitHub](https://github.com/secedu/comp6843-examsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The following exam should be challenging but also fun. All the challenges have working solver scripts, so don't tell me its unsolvable. If you're not sure on what to do, you already know what meme i'm going to post. I'll be online most of the time to help, but enjoy the exam. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you would like to contribute to how the course is run in later years, please don't hesitate to fill in this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSctBhjom877Xd1VUAGm7bseXnXpk3hjMD26mjUjXnZsHm5kYw/viewform?usp=sf_link). Its different to the one for cs6443, so don't worry.
 
-### Markdown
+Here are some spotify playlists so you can listen to them while you work:
+* [hyphy](https://open.spotify.com/user/minight/playlist/2ippMIWgPnLZ4SGdnEWbdn?si=Lcj4wk9xQByXdbvyYVc_Ng)
+* [swing](https://open.spotify.com/user/leahbrownmusic/playlist/7p0Mc4z8Kr7w43zw1rhvLj?si=lYG45VX_Rs-ITjtFgQ6Chw)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+kthx   
+> sy
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/secedu/comp6843-examsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+also thx from the entire team  
+> norman, abhi, nina, ceyx, carey, sketch, clonsdale, grc, glem, bugcrowd.
