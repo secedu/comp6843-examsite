@@ -20,9 +20,11 @@ also thx from the entire team
 * If you manage to get **code execution** (not lfd), the flag will be at /flag
 * `/etc/hosts` will tell you what ip ranges/subnets you should look at
 * session challenge - maybe the solution isn't in the checksum.
-* definiltey jsonp injection - does the whitelisted host do anything?
+* definitely jsonp injection - does the whitelisted host do anything.
 * definitely oob injection challenge - flag is on a different host
-* awesome login - tutorial exercises may help. 
+  - if you haven't eaten yet. burping makes this easier.
+* awesome login - tutorial exercises may help.
+  - don't **stop** being creative with your scripts
 
 ## Annoucements
 
