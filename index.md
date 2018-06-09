@@ -27,3 +27,11 @@ Yes. Each subdomain has its own flag. You may be required to chain vulnerabiliti
 > do I need to dirbust for directories
 
 no. Please don't. but if you do, my logs will show it. straight away, and i'll call you out.
+
+> Can the same vulnerability appear in multiple sites?
+
+yes. You may have the same vulnerability across multiple domains. 
+
+> Will the same vulnerability appear more than once in a single domain
+
+no. No domain requires you to use multiple exploits of the same kind in a chain. e.g you won't be required to do something like XSS -> CSRF -> XSS -> XXE -> XSS. 
