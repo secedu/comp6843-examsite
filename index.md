@@ -13,3 +13,17 @@ kthx
 
 also thx from the entire team  
 > norman, abhi, nina, ceyx, carey, sketch, clonsdale, grc, glem, bugcrowd.
+
+## Annoucements
+
+No bruteforcing is required for the auth challenge. 
+
+## FAQ
+
+> Is it possible to achieve the flag by interacting with that subdomain only
+
+Yes. Each subdomain has its own flag. You may be required to chain vulnerabilities into the isolated network for that challenge, e.g. via ssrf etc. These domains will each have their own isolated network if needed for chaining. You will know when you get there.
+
+> do I need to dirbust for directories
+
+no. Please don't. but if you do, my logs will show it. straight away, and i'll call you out.
