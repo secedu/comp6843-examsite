@@ -14,6 +14,12 @@ kthx
 also thx from the entire team  
 > norman, abhi, nina, ceyx, carey, sketch, clonsdale, grc, glem, bugcrowd.
 
+## """"""hints""""""
+
+* A contact page probably means there's an admin viewing your links
+* If you manage to get **code execution** (not lfd), the flag will be at /flag
+* `/etc/hosts` will tell you what ip ranges/subnets you should look at
+
 ## Annoucements
 
 No bruteforcing is required for the auth challenge. 
