@@ -24,6 +24,7 @@ also thx from the entire team
 
 * No bruteforcing is required for the auth challenge. 
 * The admin is logged in to their own profile when viewing links sent to them.
+* You are not required to portscan for any of the challenges. 
 
 ## FAQ
 
