@@ -23,6 +23,7 @@ also thx from the entire team
 ## Annoucements
 
 No bruteforcing is required for the auth challenge. 
+The admin is logged in to their own profile when viewing links sent to them.
 
 ## FAQ
 
