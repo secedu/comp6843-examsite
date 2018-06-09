@@ -19,6 +19,10 @@ also thx from the entire team
 * A contact page probably means there's an admin viewing your links
 * If you manage to get **code execution** (not lfd), the flag will be at /flag
 * `/etc/hosts` will tell you what ip ranges/subnets you should look at
+* session challenge - maybe the solution isn't in the checksum.
+* definiltey jsonp injection - does the whitelisted host do anything?
+* definitely oob injection challenge - flag is on a different host
+* awesome login - tutorial exercises may help. 
 
 ## Annoucements
 
